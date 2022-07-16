@@ -2,8 +2,6 @@ import random
 from itertools import count
 from operator import indexOf
 
-import this
-
 # print("Hello World In Pyhon Programming Language")  # Single Line comment
 
 """
